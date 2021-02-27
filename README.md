@@ -1,6 +1,6 @@
 # Whale_Watchers
 
-Whale_Watchers is a web application that pulls data from an API and uses that data to display migratory patterns and locations of various whale species, primarily the Orca whale.
+Whale_Watchers is a web application that pulls data from an API and uses that data to display migratory patterns and locations of various whale species, primarily the Orca whale.  To visit the site, go to: https://joelm26.github.io/Whale_Watchers/
 
 ## Motivation
 
