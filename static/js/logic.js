@@ -44,8 +44,8 @@ anime.timeline({loop: true})
 
 var coords = [48.7,-123.04121052819823];
 //var url = "http://hotline.whalemuseum.org/api.json?species=orca&near=48.5159,-123.1524&radius=100&limit=1000"
-//var base_url = "http://hotline.whalemuseum.org/api.json?&limit=1000"
-var base_url = "http://127.0.0.1:5000/api/v1.0/json"
+var base_url = "http://hotline.whalemuseum.org/api.json?&limit=1000"
+//var base_url = "http://127.0.0.1:5000/api/v1.0/json"
 var lst_day = 31
 var st_date = "2017-09-01"
 var en_date = "2017-09-30"
@@ -274,7 +274,7 @@ function map() {
         accessToken: API_KEY
       }); 
 
-      var dark = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+      var dark = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
         attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
         maxZoom: 10,
         id: "mapbox.dark",
