@@ -28,7 +28,3 @@ HTML/CSS
 Data: http://hotline.whalemuseum.org/
 
 Fun whale script: https://codepen.io/diegoleme/pen/rIokB
-
-### Additional Information
-
-This web application has not been deployed, so the only way to view the site is to download the documents, open the index.html file and launch a live server extension.

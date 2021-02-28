@@ -44,7 +44,7 @@ anime.timeline({loop: true})
 
 var coords = [48.7,-123.04121052819823];
 //var url = "http://hotline.whalemuseum.org/api.json?species=orca&near=48.5159,-123.1524&radius=100&limit=1000"
-var base_url = "https://hotline.whalemuseum.org/api.json?&limit=1000"
+var base_url = "https://cors-anywhere.herokuapp.com/http://hotline.whalemuseum.org/api.json?&limit=1000"
 //var base_url = "http://127.0.0.1:5000/api/v1.0/json"
 var lst_day = 31
 var st_date = "2017-09-01"
