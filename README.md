@@ -28,3 +28,7 @@ HTML/CSS
 Data: http://hotline.whalemuseum.org/
 
 Fun whale script: https://codepen.io/diegoleme/pen/rIokB
+
+### Additional information
+
+This site is hosted on GitHub Pages.  Because the API used does not provide the security required by GitHub Pages, a work-around was used to provide functionality.  This site is not regularly monitored for functionality in the case this work-around stops working.
